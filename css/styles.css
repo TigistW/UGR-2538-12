@@ -363,7 +363,7 @@ margin-top: 20px;
 }
 .abtserv .show .grp1 .one{
     position: relative;
-    background: url("/images/Surface\ Pro\ 8\ -\ 1.svg"); 
+    background: url("../images/Surface\ Pro\ 8\ -\ 1.svg"); 
     background-repeat: no-repeat;
     color:#ffffff;
     transform:scale(1);
